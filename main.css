@@ -1,0 +1,134 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.container30{
+    width: 30%;
+    margin: 10px auto;
+    border: 1px solid #f8f9fa;
+    box-shadow:0px 0px 13px 0px lightblue;
+}
+
+.container40{
+    width: 40%;
+    margin: 10px auto;
+    border: 1px solid #f8f9fa;
+    box-shadow:0px 0px 13px 0px lightblue;
+}
+
+.container50{
+    width: 50%;
+    margin: 10px auto;
+    border: 1px solid #f8f9fa;
+    box-shadow:0px 0px 13px 0px lightblue;
+}
+
+.container60{
+    width: 60%;
+    margin: 10px auto;
+    border: 1px solid #f8f9fa;
+    box-shadow:0px 0px 13px 0px lightblue;
+}
+
+.container70{
+    width: 70%;
+    margin: 10px auto;
+    border: 1px solid #f8f9fa;
+    box-shadow:0px 0px 13px 0px lightblue;
+}
+
+.container80{
+    width: 80%;
+    margin: 10px auto;
+    /* border: 1px solid #f8f9fa;
+    box-shadow:0px 0px 13px 0px lightblue; */
+}
+.border__right{
+    border-right: 1px black solid;
+    padding: 0px 2px;
+}
+.margin10{
+    margin: 10px 0px;
+}
+.heading{
+    text-align: center;
+    background-color: #f8f9fa;
+    margin-bottom: 1rem;
+}
+
+.bai2 .content{
+    text-align: center;
+    /* margin: 10px 0px; */
+}
+
+.bai3 .content{
+    padding: 5px;
+
+}
+
+.bai3 .content1{
+ padding: 5px;
+ /* border: 1px solid #f8f9fa;
+ box-shadow:0px 0px 13px 0px lightblue;  */
+ background-color: #FFCC66; 
+}
+
+.bai3 .content1 div:first-child{
+    text-align: start;
+}
+
+.bai3 .content1 div:nth-child(2){
+    text-align: center;
+}
+
+.bai3 .content1 div:last-child{
+    text-align: end;
+}
+
+.bai4 .content ol{
+    margin-left: 40px;
+    list-style-type: upper-roman;
+}
+
+.bai4 .content ol ul{
+    margin-left: 40px;
+    list-style-type: lower-roman;
+}
+
+.bai5 .content ol{
+    margin-left: 40px;
+    list-style-type: disc;
+}
+
+.bai5 .content p{
+    padding: 10px 0px;
+    font-size: 12px;
+}
+
+.bai6 .content table tr, th, td{
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+}
+
+.bai7 .content{
+    padding: 20px;
+}
+
+.bai7 .content .item{
+    margin: 20px 0px;
+    padding: 10px 0px;
+    border-bottom: 1px solid black;
+}
+
+.bai7 .content  img{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
